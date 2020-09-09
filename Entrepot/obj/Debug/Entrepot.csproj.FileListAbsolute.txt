@@ -1,0 +1,38 @@
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\bin\Debug\Entrepot.exe.config
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\bin\Debug\Entrepot.exe
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\bin\Debug\Entrepot.pdb
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\obj\Debug\Entrepot.csprojResolveAssemblyReference.cache
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\obj\Debug\Entrepot.Properties.Resources.resources
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\obj\Debug\Entrepot.csproj.GenerateResource.Cache
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\obj\Debug\Entrepot.exe
+u:\documents\visual studio 2013\Projects\Entrepot\Entrepot\obj\Debug\Entrepot.pdb
+U:\Documents\Visual Studio 2013\Projects\Entrepot\Entrepot\obj\Debug\Entrepot.accueil.resources
+U:\Documents\Visual Studio 2013\Projects\Entrepot\Entrepot\obj\Debug\Entrepot.Form2.resources
+U:\Documents\Visual Studio 2013\Projects\Entrepot\Entrepot\bin\Debug\MySql.Data.dll
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\bin\Debug\Entrepot.exe.config
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\bin\Debug\Entrepot.exe
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\bin\Debug\Entrepot.pdb
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.accueil.resources
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.Form2.resources
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.Properties.Resources.resources
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.csproj.CopyComplete
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.exe
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.pdb
+C:\Users\Utilisateur\Downloads\Entrepot\Entrepot\obj\Debug\Entrepot.Form3.resources
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\bin\Debug\Entrepot.exe.config
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\bin\Debug\Entrepot.exe
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\bin\Debug\Entrepot.pdb
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.csprojAssemblyReference.cache
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.accueil.resources
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.Form2.resources
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.Form3.resources
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.Properties.Resources.resources
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.csproj.GenerateResource.cache
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.csproj.CoreCompileInputs.cache
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.csproj.CopyComplete
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.exe
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\obj\Debug\Entrepot.pdb
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\bin\Debug\MySql.Data.dll
+C:\Users\HP portable\Desktop\Entrepot\Entrepot\bin\Debug\MySql.Data.xml
